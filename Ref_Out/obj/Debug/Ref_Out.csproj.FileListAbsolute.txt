@@ -1,0 +1,25 @@
+c:\users\kabal\documents\visual studio 2015\Projects\Elements du langage\Ref_Out\bin\Debug\Ref_Out.exe.config
+c:\users\kabal\documents\visual studio 2015\Projects\Elements du langage\Ref_Out\bin\Debug\Ref_Out.exe
+c:\users\kabal\documents\visual studio 2015\Projects\Elements du langage\Ref_Out\bin\Debug\Ref_Out.pdb
+c:\users\kabal\documents\visual studio 2015\Projects\Elements du langage\Ref_Out\obj\Debug\Ref_Out.csprojResolveAssemblyReference.cache
+c:\users\kabal\documents\visual studio 2015\Projects\Elements du langage\Ref_Out\obj\Debug\Ref_Out.exe
+c:\users\kabal\documents\visual studio 2015\Projects\Elements du langage\Ref_Out\obj\Debug\Ref_Out.pdb
+D:\Cours\_Syntaxe\Elements du langage\Ref_Out\bin\Debug\Ref_Out.exe.config
+D:\Cours\_Syntaxe\Elements du langage\Ref_Out\obj\Debug\Ref_Out.exe
+D:\Cours\_Syntaxe\Elements du langage\Ref_Out\obj\Debug\Ref_Out.pdb
+D:\Cours\_Syntaxe\Elements du langage\Ref_Out\bin\Debug\Ref_Out.exe
+D:\Cours\_Syntaxe\Elements du langage\Ref_Out\bin\Debug\Ref_Out.pdb
+D:\Cours\_Syntaxe\Elements du langage\Ref_Out\obj\Debug\Ref_Out.csprojResolveAssemblyReference.cache
+S:\Cours\_Syntaxe\Elements du langage\Ref_Out\bin\Debug\Ref_Out.exe.config
+S:\Cours\_Syntaxe\Elements du langage\Ref_Out\obj\Debug\Ref_Out.exe
+S:\Cours\_Syntaxe\Elements du langage\Ref_Out\obj\Debug\Ref_Out.pdb
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Ref_Out\bin\Debug\Ref_Out.exe.config
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Ref_Out\obj\Debug\Ref_Out.exe
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Ref_Out\obj\Debug\Ref_Out.pdb
+M:\SDCdot04\_Elements du langage\Ref_Out\bin\Debug\Ref_Out.exe.config
+M:\SDCdot04\_Elements du langage\Ref_Out\bin\Debug\Ref_Out.exe
+M:\SDCdot04\_Elements du langage\Ref_Out\bin\Debug\Ref_Out.pdb
+M:\SDCdot04\_Elements du langage\Ref_Out\obj\Debug\Ref_Out.csprojResolveAssemblyReference.cache
+M:\SDCdot04\_Elements du langage\Ref_Out\obj\Debug\Ref_Out.csproj.CoreCompileInputs.cache
+M:\SDCdot04\_Elements du langage\Ref_Out\obj\Debug\Ref_Out.exe
+M:\SDCdot04\_Elements du langage\Ref_Out\obj\Debug\Ref_Out.pdb

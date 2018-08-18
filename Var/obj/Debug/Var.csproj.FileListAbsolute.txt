@@ -1,0 +1,28 @@
+D:\Cours\_Syntaxe\Elements du langage\Var\bin\Debug\Var.exe.config
+D:\Cours\_Syntaxe\Elements du langage\Var\bin\Debug\Var.exe
+D:\Cours\_Syntaxe\Elements du langage\Var\bin\Debug\Var.pdb
+D:\Cours\_Syntaxe\Elements du langage\Var\obj\Debug\Var.csprojResolveAssemblyReference.cache
+D:\Cours\_Syntaxe\Elements du langage\Var\obj\Debug\Var.exe
+D:\Cours\_Syntaxe\Elements du langage\Var\obj\Debug\Var.pdb
+G:\Cours\_Syntaxe\Elements du langage\Var\bin\Debug\Var.exe.config
+G:\Cours\_Syntaxe\Elements du langage\Var\obj\Debug\Var.exe
+G:\Cours\_Syntaxe\Elements du langage\Var\obj\Debug\Var.pdb
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Var\bin\Debug\Var.exe.config
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Var\bin\Debug\Var.exe
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Var\bin\Debug\Var.pdb
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Var\obj\Debug\Var.csprojResolveAssemblyReference.cache
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Var\obj\Debug\Var.exe
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Var\obj\Debug\Var.pdb
+f:\Technocite\Formation Dot Net 2016 - 2\Cours\_Syntaxe\Elements du langage\Var\bin\Debug\Var.exe.config
+f:\Technocite\Formation Dot Net 2016 - 2\Cours\_Syntaxe\Elements du langage\Var\obj\Debug\Var.exe
+f:\Technocite\Formation Dot Net 2016 - 2\Cours\_Syntaxe\Elements du langage\Var\obj\Debug\Var.pdb
+f:\Technocite\Formation Dot Net 2016 - 2\Cours\_Syntaxe\Elements du langage\Var\bin\Debug\Var.exe
+f:\Technocite\Formation Dot Net 2016 - 2\Cours\_Syntaxe\Elements du langage\Var\bin\Debug\Var.pdb
+f:\Technocite\Formation Dot Net 2016 - 2\Cours\_Syntaxe\Elements du langage\Var\obj\Debug\Var.csprojResolveAssemblyReference.cache
+M:\SDCdot04\_Elements du langage\Var\bin\Debug\Var.exe.config
+M:\SDCdot04\_Elements du langage\Var\bin\Debug\Var.exe
+M:\SDCdot04\_Elements du langage\Var\bin\Debug\Var.pdb
+M:\SDCdot04\_Elements du langage\Var\obj\Debug\Var.csprojResolveAssemblyReference.cache
+M:\SDCdot04\_Elements du langage\Var\obj\Debug\Var.csproj.CoreCompileInputs.cache
+M:\SDCdot04\_Elements du langage\Var\obj\Debug\Var.exe
+M:\SDCdot04\_Elements du langage\Var\obj\Debug\Var.pdb

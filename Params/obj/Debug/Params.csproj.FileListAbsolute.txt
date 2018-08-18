@@ -1,0 +1,21 @@
+c:\users\kabal\documents\visual studio 2015\Projects\Elements du langage\Params\bin\Debug\Params.exe.config
+c:\users\kabal\documents\visual studio 2015\Projects\Elements du langage\Params\bin\Debug\Params.exe
+c:\users\kabal\documents\visual studio 2015\Projects\Elements du langage\Params\bin\Debug\Params.pdb
+c:\users\kabal\documents\visual studio 2015\Projects\Elements du langage\Params\obj\Debug\Params.exe
+c:\users\kabal\documents\visual studio 2015\Projects\Elements du langage\Params\obj\Debug\Params.pdb
+D:\Cours\_Syntaxe\Elements du langage\Params\bin\Debug\Params.exe.config
+D:\Cours\_Syntaxe\Elements du langage\Params\obj\Debug\Params.exe
+D:\Cours\_Syntaxe\Elements du langage\Params\obj\Debug\Params.pdb
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Params\bin\Debug\Params.exe.config
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Params\bin\Debug\Params.exe
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Params\bin\Debug\Params.pdb
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Params\obj\Debug\Params.csprojResolveAssemblyReference.cache
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Params\obj\Debug\Params.exe
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Params\obj\Debug\Params.pdb
+M:\SDCdot04\_Elements du langage\Params\bin\Debug\Params.exe.config
+M:\SDCdot04\_Elements du langage\Params\bin\Debug\Params.exe
+M:\SDCdot04\_Elements du langage\Params\bin\Debug\Params.pdb
+M:\SDCdot04\_Elements du langage\Params\obj\Debug\Params.csprojResolveAssemblyReference.cache
+M:\SDCdot04\_Elements du langage\Params\obj\Debug\Params.csproj.CoreCompileInputs.cache
+M:\SDCdot04\_Elements du langage\Params\obj\Debug\Params.exe
+M:\SDCdot04\_Elements du langage\Params\obj\Debug\Params.pdb

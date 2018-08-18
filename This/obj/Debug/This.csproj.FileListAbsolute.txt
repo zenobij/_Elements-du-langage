@@ -1,0 +1,12 @@
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\This\bin\Debug\This.exe.config
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\This\bin\Debug\This.exe
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\This\bin\Debug\This.pdb
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\This\obj\Debug\This.csprojResolveAssemblyReference.cache
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\This\obj\Debug\This.exe
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\This\obj\Debug\This.pdb
+f:\Technocite\Formation Dot Net 2016 - 2\Cours\_Syntaxe\Elements du langage\This\bin\Debug\This.exe.config
+f:\Technocite\Formation Dot Net 2016 - 2\Cours\_Syntaxe\Elements du langage\This\obj\Debug\This.exe
+f:\Technocite\Formation Dot Net 2016 - 2\Cours\_Syntaxe\Elements du langage\This\obj\Debug\This.pdb
+f:\Technocite\Formation Dot Net 2016 - 2\Cours\_Syntaxe\Elements du langage\This\bin\Debug\This.exe
+f:\Technocite\Formation Dot Net 2016 - 2\Cours\_Syntaxe\Elements du langage\This\bin\Debug\This.pdb
+f:\Technocite\Formation Dot Net 2016 - 2\Cours\_Syntaxe\Elements du langage\This\obj\Debug\This.csprojResolveAssemblyReference.cache

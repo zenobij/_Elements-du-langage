@@ -1,0 +1,7 @@
+C:\Users\studentdot0400\Desktop\_Elements du langage\Dictionnaire\bin\Debug\Dictionnaire.exe.config
+C:\Users\studentdot0400\Desktop\_Elements du langage\Dictionnaire\bin\Debug\Dictionnaire.exe
+C:\Users\studentdot0400\Desktop\_Elements du langage\Dictionnaire\bin\Debug\Dictionnaire.pdb
+C:\Users\studentdot0400\Desktop\_Elements du langage\Dictionnaire\obj\Debug\Dictionnaire.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0400\Desktop\_Elements du langage\Dictionnaire\obj\Debug\Dictionnaire.exe
+C:\Users\studentdot0400\Desktop\_Elements du langage\Dictionnaire\obj\Debug\Dictionnaire.pdb
+C:\Users\studentdot0400\Desktop\_Elements du langage\Dictionnaire\obj\Debug\Dictionnaire.csprojResolveAssemblyReference.cache

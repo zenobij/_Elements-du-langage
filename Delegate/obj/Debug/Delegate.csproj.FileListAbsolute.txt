@@ -1,0 +1,17 @@
+G:\Cours\_Syntaxe\Elements du langage\Delegate\bin\Debug\Delegate.exe.config
+G:\Cours\_Syntaxe\Elements du langage\Delegate\bin\Debug\Delegate.exe
+G:\Cours\_Syntaxe\Elements du langage\Delegate\bin\Debug\Delegate.pdb
+G:\Cours\_Syntaxe\Elements du langage\Delegate\obj\Debug\Delegate.exe
+G:\Cours\_Syntaxe\Elements du langage\Delegate\obj\Debug\Delegate.pdb
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Delegate\bin\Debug\Delegate.exe
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Delegate\bin\Debug\Delegate.pdb
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Delegate\obj\Debug\Delegate.exe
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Delegate\obj\Debug\Delegate.pdb
+C:\Users\t_8721_multidevice\Desktop\Elements du langage\Delegate\bin\Debug\Delegate.exe.config
+C:\Users\t_8721_multidevice\Desktop\Elements du langage\Delegate\bin\Debug\Delegate.exe
+C:\Users\t_8721_multidevice\Desktop\Elements du langage\Delegate\bin\Debug\Delegate.pdb
+C:\Users\t_8721_multidevice\Desktop\Elements du langage\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+C:\Users\t_8721_multidevice\Desktop\Elements du langage\Delegate\obj\Debug\Delegate.exe
+C:\Users\t_8721_multidevice\Desktop\Elements du langage\Delegate\obj\Debug\Delegate.pdb

@@ -1,0 +1,25 @@
+G:\Cours\_Syntaxe\Elements du langage\Base\bin\Debug\Base.exe.config
+G:\Cours\_Syntaxe\Elements du langage\Base\bin\Debug\Base.exe
+G:\Cours\_Syntaxe\Elements du langage\Base\bin\Debug\Base.pdb
+G:\Cours\_Syntaxe\Elements du langage\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+G:\Cours\_Syntaxe\Elements du langage\Base\obj\Debug\Base.exe
+G:\Cours\_Syntaxe\Elements du langage\Base\obj\Debug\Base.pdb
+D:\Cours\_Syntaxe\Elements du langage\Base\bin\Debug\Base.exe.config
+D:\Cours\_Syntaxe\Elements du langage\Base\obj\Debug\Base.exe
+D:\Cours\_Syntaxe\Elements du langage\Base\obj\Debug\Base.pdb
+D:\Cours\_Syntaxe\Elements du langage\Base\bin\Debug\Base.exe
+D:\Cours\_Syntaxe\Elements du langage\Base\bin\Debug\Base.pdb
+D:\Cours\_Syntaxe\Elements du langage\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+f:\Technocite\Formation Dot Net 2016 - 2\Cours\_Syntaxe\Elements du langage\Base\bin\Debug\Base.exe.config
+f:\Technocite\Formation Dot Net 2016 - 2\Cours\_Syntaxe\Elements du langage\Base\obj\Debug\Base.exe
+f:\Technocite\Formation Dot Net 2016 - 2\Cours\_Syntaxe\Elements du langage\Base\obj\Debug\Base.pdb
+f:\Technocite\Formation Dot Net 2016 - 2\Cours\_Syntaxe\Elements du langage\Base\bin\Debug\Base.exe
+f:\Technocite\Formation Dot Net 2016 - 2\Cours\_Syntaxe\Elements du langage\Base\bin\Debug\Base.pdb
+f:\Technocite\Formation Dot Net 2016 - 2\Cours\_Syntaxe\Elements du langage\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+M:\SDCdot04\_Elements du langage\Base\bin\Debug\Base.exe.config
+M:\SDCdot04\_Elements du langage\Base\bin\Debug\Base.exe
+M:\SDCdot04\_Elements du langage\Base\bin\Debug\Base.pdb
+M:\SDCdot04\_Elements du langage\Base\obj\Debug\Base.csprojResolveAssemblyReference.cache
+M:\SDCdot04\_Elements du langage\Base\obj\Debug\Base.csproj.CoreCompileInputs.cache
+M:\SDCdot04\_Elements du langage\Base\obj\Debug\Base.exe
+M:\SDCdot04\_Elements du langage\Base\obj\Debug\Base.pdb

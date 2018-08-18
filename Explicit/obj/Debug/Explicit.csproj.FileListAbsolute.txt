@@ -1,0 +1,12 @@
+D:\Cours\_Syntaxe\Elements du langage\Explicit\bin\Debug\Explicit.exe.config
+D:\Cours\_Syntaxe\Elements du langage\Explicit\bin\Debug\Explicit.exe
+D:\Cours\_Syntaxe\Elements du langage\Explicit\bin\Debug\Explicit.pdb
+D:\Cours\_Syntaxe\Elements du langage\Explicit\obj\Debug\Explicit.exe
+D:\Cours\_Syntaxe\Elements du langage\Explicit\obj\Debug\Explicit.pdb
+D:\Cours\_Syntaxe\Elements du langage\Explicit\obj\Debug\Explicit.csprojResolveAssemblyReference.cache
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Explicit\bin\Debug\Explicit.exe.config
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Explicit\bin\Debug\Explicit.exe
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Explicit\bin\Debug\Explicit.pdb
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Explicit\obj\Debug\Explicit.csprojResolveAssemblyReference.cache
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Explicit\obj\Debug\Explicit.exe
+C:\Users\s_8221_dotnetmob\Desktop\Elements du langage\Explicit\obj\Debug\Explicit.pdb
